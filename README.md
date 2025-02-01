@@ -65,4 +65,4 @@ We welcome contributions from the community. If you'd like to contribute to Ecom
 
 ## Contact
 
-For questions, feedback, or inquiries, feel free to reach out to us at [adewaletaiwo08@gmail.com](mailto:contact@jrohit.com.np).
+For questions, feedback, or inquiries, feel free to reach out to us at [contact@jrohit.com.np](mailto:contact@jrohit.com.np).
